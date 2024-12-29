@@ -12,7 +12,7 @@ import util.Info;
 public class CommDAO {
 
     // 数据库名称
-    public static final String database = "jspm23529jdhjpyxt";
+    public static final String database = "jspm23529";
     // 数据库账号
     public static final String username = "root";
     // 数据库密码
